@@ -1,0 +1,244 @@
+body{
+    background-color: #2542a6;
+}
+.navbar{
+    background-color: #2542a6;
+}
+.login {
+    margin-right: .5rem;
+    background: none;
+    border: 1px solid #557ffb;
+    padding: 11%;
+}
+.login:hover{
+    color: white!important;
+    border: 1px solid #557ffb;
+}
+.columns{
+    padding: px;
+    margin-top: 3rem;
+}
+.register{
+    background-color: #5680f9!important;
+    border: 1px solid #557ffb;
+    padding: 11%;
+}
+.register:hover{
+    color: white!important;
+    border: 1px solid #557ffb;
+}
+svg:not(:root).svg-inline--fa {
+    margin-right: 5px;
+}
+.pages{
+    display: flex;
+    flex-direction: column;
+    padding-top: 4rem;
+    margin-left: 40px;
+}
+.PRODUCTS{
+    font-size: 10px;
+    padding: 0.5rem;
+    color:white;
+    font-family: cursive;
+    padding-top: 1.3rem;
+}
+.PRODUCT{
+    color:white;
+    margin-left: 2.5rem;
+    
+
+}
+.PRODUCT{
+    font-weight: 001!important;
+    font-size: 6rem;
+        color: white;
+    font-family: fantasy;
+    padding-left: 4rem;
+    padding-right: 10rem;
+}
+.left p{
+    color: white;
+    margin-left: 60rem;
+    margin-right: 4rem;
+    font-family: cursive;
+}
+.numbering{
+    color:rgb(158, 158, 249);
+}
+.name1{
+    color: blue;
+    display: flex;
+    margin-left: 9.5rem;
+}
+.name{
+    display: flex;
+    margin-left: 13.7rem;
+}
+.box{
+    background-color:#2542a6;
+    padding-left: rem;
+    box-shadow: none;
+}
+.box1{
+    border-left: 3px solid #fff;
+    padding-left: 2.75rem;
+}
+.box1:hover{
+    background-color:red;
+}
+.part{
+    color: #7394f5;
+    display: flex;
+}
+.PRODUCT1{
+    color:white;
+    font-size: 12px;
+    margin-left: 11rem;
+}
+.b1{
+    color: #fdfd35;
+    font-size: 12px;
+    font-family: cursive;
+}
+.b2{
+    color: white;
+}
+.b3 h1{
+    color: white;
+    font-size: 3rem;
+    font-family: fantasy;
+}
+.b4{
+    color: white;
+}
+.b5{
+    color: #fdfd35;
+    display: flex;
+}
+.b45{
+    padding-top: 4rem;
+}
+.links{
+    padding-top: 1.8rem;
+}
+.links a{
+    color: white;
+}
+.playicon{
+    font-size: 2.8rem;
+}
+.section3{
+    margin-top: 9rem;
+}
+.earn {
+    padding-right: 47%;
+}
+.section5{
+    color: white;
+    background-color: #4362cc;
+    margin-right: 18rem;
+    text-align: center;
+}
+.columns{
+    padding-left: 1rem;
+}
+.column7{
+    background-color: #183082;
+    margin-right: 18rem;
+}
+.column{
+    padding-top: 1.75rem;
+}
+.card{
+    background-color: #2542a6;
+    box-shadow: none;
+    color: #ffffff
+}
+.logo{
+    height: 48px;
+    width: 123px;
+}
+.heading{
+    color: white;
+    font-size: 3rem;
+    font-family: fantasy;
+}
+.content{
+    color:white;
+    padding-top: 1rem;
+    padding-left: 6rem;
+    padding-right: 3rem;
+}
+.card{
+    padding-right: 0.5rem;
+}
+.para{
+    color: #fdfd35;
+    font-size: 12px;
+    font-family: cursive;
+}
+.part1{
+    color: white;
+    padding-left: 12rem;
+}
+.part2{
+    padding-left: 7rem;
+    padding-right: 12rem;
+    border-left: 4px solid #f36b6b;
+}
+.part5 a{
+    color: white;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    text-align: center
+}
+.part5{
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+.part7{
+    margin-top: 2rem;
+}
+.part9{
+background-color: #1a2f7a
+}
+.part10 img{
+    height: auto;
+    max-width: 30%;
+    margin-left: 12rem;
+    padding-top: 3rem;
+}
+.part11{
+    color:white;
+}
+.part11 li{
+    padding-top: 2rem;
+}
+.part111{
+    padding-top: 0;
+}
+.heading2{
+    color: white;
+    font-size: 2rem;
+    font-family: fantasy;
+    padding-top: 3rem;
+}
+.part12 img{
+    height: auto;
+    max-width: 29%;
+}
+.w3-content w3-display-container.mySlide{
+    display: none;
+}
+    
+.w3-content w3-display-container.w3-left, .w3-right, .w3-badge {
+    cursor:pointer;
+    
+}
+.w3-content w3-display-container.w3-badge{
+    height:13px;width:13px;padding:0;
+}
+.part10{
+    color: 
+}
